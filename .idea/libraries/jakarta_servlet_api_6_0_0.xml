@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jakarta.servlet-api_6.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Wildlife Pentagon/jakarta.servlet-api_6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
